@@ -137,6 +137,18 @@
             "size": 16
         }
     },
+    "2022.11.10.0000.0000": {
+        // Region: KR
+        // Version: 6.15
+        "MapEffect": {
+            "opcode": 300,
+            "size": 11
+        },
+        "CEDirector": {
+            "opcode": 799,
+            "size": 16
+        }
+    },
     "2022.12.07.0000.0000": {
         // Region: CN
         // Version: 6.2
@@ -146,6 +158,42 @@
         },
         "CEDirector": {
             "opcode": 140,
+            "size": 16
+        }
+    },
+    "2022.12.09.0000.0000": {
+        // Region: KR
+        // Version: 6.18
+        "MapEffect": {
+            "opcode": 698,
+            "size": 11
+        },
+        "CEDirector": {
+            "opcode": 904,
+            "size": 16
+        }
+    },
+    "2022.12.23.0000.0000": {
+        // Region: Global
+        // Version: 6.3
+        "MapEffect": {
+            "opcode": 548,
+            "size": 11
+        },
+        "CEDirector": {
+            "opcode": 617,
+            "size": 16
+        }
+    },
+    "2023.01.11.0000.0000": {
+        // Region: Global
+        // Version: 6.3 Hotfix
+        "MapEffect": {
+            "opcode": 718,
+            "size": 11
+        },
+        "CEDirector": {
+            "opcode": 184,
             "size": 16
         }
     }
